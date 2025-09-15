@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=https://huggingface.co/spaces/23ucs529/citizen" />
+  <meta http-equiv="refresh" content="0; url="https://huggingface.co/spaces/23ucs529/citizen" />
   <title>Citizenai</title>
 </head>
 <body>
