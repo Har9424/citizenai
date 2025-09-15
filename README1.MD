@@ -7,7 +7,7 @@
 <body>
   <h1>Redirecting to Citizenai...</h1>
   <p>If you are not redirected automatically, 
-     <a href="https://huggingface.co/spaces/23ucs529/citizen">click here</a>.
+     <a href="https://huggingface.co/spaces/23ucs529/citizen">click here</a>
   </p>
 </body>
 </html>
